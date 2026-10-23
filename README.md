@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # About Ulbolsyn
 My name is Ulbolsyn.
 I am a university student.
