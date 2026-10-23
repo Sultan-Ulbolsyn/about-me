@@ -1,4 +1,4 @@
-# About Me
+# My Personal Profile
 My name is Ulbolsyn.
 I am a university student.
 I study Information Systems.
